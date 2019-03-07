@@ -1,5 +1,6 @@
 # ProteinMotifRBM
 
+## This code is associated with the paper from Tubiana et al., "Learning protein constitutive motifs from sequence data". eLife, 2019. http://dx.doi.org/10.7554/eLife.39397
 
 ## Summary
 
